@@ -31,4 +31,11 @@ Media queries are used to ensure proper layout on all screen sizes.
 
 ---
 
+## ⚠️ Disclaimer
+
+This is a **frontend-only UI project** created for learning and portfolio purposes.
+It does not collect any user data, payments, or credentials.
+
+---
+
 ## 📂 Project Structure
